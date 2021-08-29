@@ -2,3 +2,8 @@ catatan
 satu
 dua
 tiga
+
+update
+empat
+lima 
+enam
